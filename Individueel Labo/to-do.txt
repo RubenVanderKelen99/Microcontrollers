@@ -1,0 +1,5 @@
+TO DO:
+1) 2 lichten dimmen en en laten gloeien
+2) 2 woorden op uw display zetten (0-16 A-E, L toevoegen)
+3) Knoppen met interrupts
+4) En klok op uw display en de tijd kunnen veranderen
